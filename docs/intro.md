@@ -2,46 +2,35 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 快速了解
 
-Let's discover **Docusaurus in less than 5 minutes**.
+此文旨在 **10分钟之内带你完成对 Pigeonla 的了解**。
+为方便起见，“Pigeonla” 下称为 “本服”。
 
-## Getting Started
+## 入服相关
 
-Get started by **creating a new site**.
+本服基于 Minecraft Java Edition ，开启**正版验证及白名单**。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### 你需要做的事
 
-### What you'll need
+- 账户获取：
+  - 前往 [Minecraft 官方网站](https://minecraft.net) 获取。
+- 白名单获取：
+  - 请阅读 Wiki - 获取白名单。
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## 服内相关
 
-## Generate a new site
+### Main
 
-Generate a new Docusaurus site using the **classic template**.
+主服，不需要专用客户端，需要加载材质包。通常随游戏大版本更新而更新。
 
-The classic template will automatically be added to your project after you run the command:
+### Modpack
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+需要安装特定的 Modpack ，不定期更换。
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### Activity
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+活动服，不定期开放。
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### ......
+......
