@@ -2,7 +2,7 @@
 slug: hello-world
 title: Hello World
 authors: pigeonla
-tags: [hello, docusaurus]
+tags: [hello, world]
 ---
 
 This is the first blog post of Pigeonla Network.
